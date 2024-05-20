@@ -1,8 +1,8 @@
 OBJECTIVE
 
 Our objective is to create a system that used for detecting whether a disease is present or not, and then classifying the type of disease, if present.
-Detecting the disease
-Categorized the disease
+Detecting the disease.
+Categorized the disease.
 
 RESULTS
 
